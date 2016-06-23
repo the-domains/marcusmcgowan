@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Deephouse mix from 2008 - 2h24m
-datePublished: '2016-06-23T11:23:11.152Z'
-dateModified: '2016-06-23T11:22:56.172Z'
+datePublished: '2016-06-23T11:34:32.472Z'
+dateModified: '2016-06-23T11:23:18.086Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-23-the-message-deephouse-mix.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-23-the-message-deephouse-mix.md
 url: the-message-deephouse-mix/index.html
 _type: Blurb
 
