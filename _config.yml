@@ -1,5 +1,4 @@
-favicon: null
-name: 'MarcusMcGowan '
+layout_spectrum: 0.35586
 opengraph:
   image: null
   type: null
@@ -18,7 +17,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.05197133
+  saturation: 0.05555556
   brandStrength: 0
   lightness: 0.9767025
   brandColors:
@@ -27,14 +26,15 @@ color:
     - '#d1d1d1'
     - '#9a9a9a'
     - '#717171'
-  rhythmicContrast: 0.9703357
+  rhythmicContrast: 0
 typography_spectrum: 0.6753225391730666
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.35586
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: 'MarcusMcGowan '
